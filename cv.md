@@ -19,7 +19,7 @@ Just learning frontend in RS School
 -
 
 # Education
--
+--
 # English
 Pre-/ Intermediate
 
